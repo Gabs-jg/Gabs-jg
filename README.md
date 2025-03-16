@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF79C6&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Gabriel+Oliveira.)](https://git.io/typing-svg)
 ---
 ##### **`👨‍💻 Desenvolvedor Back-End. `**
@@ -89,35 +88,23 @@
 <img
     align="left"
     alt="Github Stats"
-    height="190px"
+    height="135px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=gabs-jg&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
 />
 <img
     align="left"
     alt="Tecnologias"
-    height="190px"
+    height="134x"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-jg&theme=dracula&layout=compact&custom_title=Linguagens"
 />
-
 <br>
 </br>
 <br>
 </br>
 <br>
 </br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
 
 ---
 ## **📞Contato:**
