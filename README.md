@@ -94,7 +94,7 @@
     alt="Github Stats"
     height="161px"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gabs-jg&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=gabs-jg&show_icons=true&theme=dracula&include_all_commits=false&locale=pt-br"
 />
 <img
     align="left"
