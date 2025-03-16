@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF79C6&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Gabriel+Oliveira.)](https://git.io/typing-svg)
 ---
 #### **`👨‍💻 Desenvolvedor Back-End.`**
-<br>
-<br>
 
 📚 Estudante de Sistemas de Informação.
 
