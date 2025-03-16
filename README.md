@@ -88,17 +88,18 @@
 <img
     align="left"
     alt="Github Stats"
-    height="170px"
+    height="180px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=gabs-jg&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
 />
 <img
     align="left"
     alt="Tecnologias"
-    height="170x"
+    height="180x"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-jg&theme=dracula&layout=compact&custom_title=Linguagens"
 />
+<br>
 <br>
 </br>
 <br>
