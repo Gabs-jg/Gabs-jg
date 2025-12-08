@@ -115,7 +115,7 @@
 ## **📞Contato:**
 <div>
     <a href = "mailto:gabriel19joao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jgabrieloliveiram-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-oliveira-magalh%C3%A3es-9b50a8312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
